@@ -4,6 +4,10 @@
 
 スクレイピングしているサイト : https://kinro.ntv.co.jp/lineup
 
+## Requirement
+- requests
+- colorama
+
 ## Screenshot
 ![screenshot](./image/screen.png)
 
